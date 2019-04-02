@@ -1,0 +1,6 @@
+Found 0 *.jpg files
+Found 0 *.png files
+Found 0 *.jpeg files
+\\\\\Information about *.jpg files//////////
+\\\\\Information about *.png files///////////
+\\\\\Information about *.jpeg files/////////////

@@ -1,0 +1,7 @@
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\bin\Debug\ArrayForFirstCourse.exe.config
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\bin\Debug\ArrayForFirstCourse.exe
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\bin\Debug\ArrayForFirstCourse.pdb
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\obj\Debug\ArrayForFirstCourse.csprojAssemblyReference.cache
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\obj\Debug\ArrayForFirstCourse.csproj.CoreCompileInputs.cache
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\obj\Debug\ArrayForFirstCourse.exe
+C:\Users\Димон\source\repos\ArrayForFirstCourse\ArrayForFirstCourse\obj\Debug\ArrayForFirstCourse.pdb
